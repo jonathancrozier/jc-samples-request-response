@@ -1,4 +1,4 @@
-# JC.Samples.RequestResponse
+# Samples - Request-Response Pattern
 An implementation of the Request-Response pattern using C# with JSON-RPC and WebSockets.
 
 ```csharp
